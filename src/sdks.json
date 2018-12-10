@@ -1,0 +1,63 @@
+[
+    {
+        "name": "SDK 1",
+        "tags": [
+            "Tag 1",
+            "Tag 3"
+        ]
+    },
+    {
+        "name": "SDK 2",
+        "tags": [
+            "Tag 4"
+        ]
+    },
+    {
+        "name": "SDK 3",
+        "tags": [
+            "Tag 1",
+            "Tag 3",
+            "Tag 5"
+        ]
+    },
+    {
+        "name": "SDK 4",
+        "tags": [
+            "Tag 2"
+        ]
+    },
+    {
+        "name": "SDK 5",
+        "tags": [
+            "Tag 3"
+        ]
+    },
+    {
+        "name": "SDK 6",
+        "tags": [
+            "Tag 2",
+            "Tag 4"
+        ]
+    },
+    {
+        "name": "SDK 7",
+        "tags": [
+            "Tag 1",
+            "Tag 3"
+        ]
+    },
+    {
+        "name": "SDK 8",
+        "tags": [
+            "Tag 1",
+            "Tag 2"
+        ]
+    },
+    {
+        "name": "SDK 9",
+        "tags": [
+            "Tag 1",
+            "Tag 5"
+        ]
+    }
+]
